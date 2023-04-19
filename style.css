@@ -1,0 +1,22 @@
+h1 {  /* h1= color red;use times new roman font,change size of font,color,align text to center,add spacing with margin and padding */
+  color: red;
+  font-family: 'Times New Roman';
+  font-size:50px;
+  background-color: black;
+  text-align: center;
+  margin: 20;
+  padding: 20px;
+  } 
+
+img {  /* adjust image size */
+  width: 720px;
+  height: 480px;
+}
+h2 { /* add a box background behind h2 with rgb color and change font to blue color */ 
+  background:border-box rgb(156, 30, 30);
+  color: blue;
+}
+
+.contact:hover{ /* create a class for html to reference to add pseudocommand:hover  */
+  color: orange;
+}
